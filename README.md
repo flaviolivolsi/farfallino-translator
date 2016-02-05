@@ -6,7 +6,7 @@ Super useful Node.js module to translate text to farfallino language.
 ```javascript
 var farfallino = require('farfallino-translator')
 
-farfallino.translate("Hello, my name is Bobby!")
+farfallino.transform("Hello, my name is Bobby!")
 // => 'Hefellofo, myfy nafamefe ifis Bofobbyfy!'
 ```
 
