@@ -1,20 +1,43 @@
 {
-  "name": "farfallino-translator",
-  "version": "1.0.1",
-  "description": "Farfallino language translation module",
-  "main": "farfallino.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "author": {
+    "email": "flavio.livolsi@gmail.com",
+    "name": "Flavio Li Volsi",
+    "url": "https://github.com/flaviolivolsi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flaviolivolsi/farfallino-translator.git"
   },
   "dependencies": {
-    "flv-symbols": "git://github.com/flaviolivolsi/symbols.git"
+    "symbols": "^0.0.3"
   },
+  "description": "Farfallino language translation module",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "8292b986f57639f78c81b0f35cbca776f7444ab7",
+    "tarball": "http://registry.npmjs.org/farfallino-translator/-/farfallino-translator-1.0.2.tgz"
+  },
+  "gitHead": "937e06f289cc69dd5e9d278133d7991c28a4030f",
   "keywords": [
     "farfallino",
     "linguaggio",
     "translation",
     "translator"
   ],
-  "author": "Flavio Li Volsi <flavio.livolsi@gmail.com> (https://github.com/flaviolivolsi)",
-  "license": "MIT"
+  "license": "MIT",
+  "main": "farfallino.js",
+  "maintainers": [
+    {
+      "name": "flaviolivolsi",
+      "email": "flavio.livolsi@gmail.com"
+    }
+  ],
+  "name": "farfallino-translator",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.3"
 }
