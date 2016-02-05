@@ -14,11 +14,6 @@
   "description": "Farfallino language translation module",
   "devDependencies": {},
   "directories": {},
-  "dist": {
-    "shasum": "8292b986f57639f78c81b0f35cbca776f7444ab7",
-    "tarball": "http://registry.npmjs.org/farfallino-translator/-/farfallino-translator-1.0.2.tgz"
-  },
-  "gitHead": "937e06f289cc69dd5e9d278133d7991c28a4030f",
   "keywords": [
     "farfallino",
     "linguaggio",
@@ -35,9 +30,8 @@
   ],
   "name": "farfallino-translator",
   "optionalDependencies": {},
-  "readme": "ERROR: No README data found!",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.0.3"
+  "version": "1.0.4"
 }
