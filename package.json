@@ -1,13 +1,12 @@
 {
   "name": "farfallino-translator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Farfallino language translation module",
   "main": "farfallino.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "irc": "^0.4.1",
     "flv-symbols": "git://github.com/flaviolivolsi/symbols.git"
   },
   "keywords": [
