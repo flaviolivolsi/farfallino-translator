@@ -1,6 +1,6 @@
 # farfallino-translator
 
-Super usefule Node.js module to translate text to farfallino language.
+Super useful Node.js module to translate text to farfallino language.
 
 ### Usage
 ```javascript
@@ -9,6 +9,8 @@ var farfallino = require('farfallino-translator')
 farfallino.translate("Hello, my name is Bobby!")
 // => 'Hefellofo, myfy nafamefe ifis Bofobbyfy!'
 ```
+
+You can find it on [NPM](https://www.npmjs.com/package/farfallino-translator)
 
 
 ### Author
